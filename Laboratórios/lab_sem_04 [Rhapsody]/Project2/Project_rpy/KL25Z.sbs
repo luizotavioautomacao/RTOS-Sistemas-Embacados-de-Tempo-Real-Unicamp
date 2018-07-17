@@ -1,0 +1,76 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ ISubsystem 
+	- _ownerHandle = { IHandle 
+		- _m2Class = "ISubsystem";
+		- _filename = "Sources.sbs";
+		- _subsystem = "";
+		- _class = "";
+		- _name = "Sources";
+		- _id = GUID 49f4e301-16dd-46de-8dcd-a7ee3a057aec;
+	}
+	- _id = GUID 347d0dd0-2fb4-4804-bfc5-48c4df328fd2;
+	- _myState = 8192;
+	- _name = "KL25Z";
+	- _objectCreation = "543097514562018195257554";
+	- _umlDependencyID = "1954";
+	- Dependencies = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IDependency 
+			- _id = GUID 4b2840a7-da38-4915-abac-0b9ac47afb19;
+			- _myState = 2048;
+			- _name = "Sources";
+			- _objectCreation = "543097714562018195255554";
+			- _umlDependencyID = "2350";
+			- _dependsOn = { INObjectHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = "Sources.sbs";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Sources";
+				- _id = GUID 49f4e301-16dd-46de-8dcd-a7ee3a057aec;
+			}
+		}
+	}
+	- _lastID = 1;
+	- weakCGTime = 5.14.2018::22:35:46;
+	- strongCGTime = 5.14.2018::22:35:46;
+	- ComponentFiles = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IFile 
+			- _id = GUID 88e18466-5665-433c-8e2c-1630a5a5d154;
+			- _myState = 8192;
+			- _name = "es670_peripheral_board.h";
+			- _objectCreation = "543097914562018195253554";
+			- _umlDependencyID = "3911";
+			- m_path = "";
+			- m_type = moduleFile;
+			- Fragments = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+	}
+	- _defaultComposite = GUID fca610a0-b79a-4e19-a16f-04bd78c33cd1;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID fca610a0-b79a-4e19-a16f-04bd78c33cd1;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _objectCreation = "543098114562018195251554";
+			- _umlDependencyID = "2412";
+			- weakCGTime = 5.7.2018::22:46:16;
+			- strongCGTime = 5.7.2018::22:46:16;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+

@@ -1,0 +1,12 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+
+- filesTable = { IRPYRawContainer 
+	- size = 5;
+	- value = "Projects.rpl" ""
+	"UML.rpy" ""
+	"UML_rpy\\CM_SubsystemPkg.sbs" "SubsystemsPkg::CM_SubsystemPkg"
+	"UML_rpy\\DefaultComponent.cmp" "DefaultComponent"
+	"UML_rpy\\SubsystemsPkg.sbs" "SubsystemsPkg"
+	
+}
+

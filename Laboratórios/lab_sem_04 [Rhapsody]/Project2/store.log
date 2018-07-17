@@ -1,0 +1,140 @@
+05, 14, 2018 (19:56:54): Starting Pre-Save actions
+
+05, 14, 2018 (19:56:54): Starting Dialogs Check/Save
+05, 14, 2018 (19:56:54): Finished Dialogs Check/Save
+05, 14, 2018 (19:56:54): Starting Controlled Files Resolution
+05, 14, 2018 (19:56:54): Finished Controlled Files Resolution
+05, 14, 2018 (19:56:54): Finished Pre-Save actions
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project.rpy
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project.rpy on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\filesTable.dat on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\filesTable.dat on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\SubsystemsPkg.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\SubsystemsPkg.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\SubsystemsPkg.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\AnalysisPkg.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\AnalysisPkg.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\AnalysisPkg.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\RequirementsPkg_0.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\RequirementsPkg_0.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\RequirementsPkg_0.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\ArchitecturePkg.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\ArchitecturePkg.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\ArchitecturePkg.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\protocolo.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\protocolo.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\protocolo.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\serial.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\serial.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\serial.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\Sources.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\Sources.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\package_3.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\package_3.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\package_3.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\package_5.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\package_5.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\package_5.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\package_6.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\package_6.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\package_6.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\buzzer.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\buzzer.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\buzzer.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\Display7seg.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\Display7seg.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\Display7seg.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\KL25Z.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\KL25Z.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\KL25Z.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\display_hal.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\display_hal.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\display_hal.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\Taco.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\Taco.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\Taco.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\Cooler.sbs
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\Cooler.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\Cooler.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\Sources.sbs on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Creating C:\ES670 150650\Rhapsody\Project\Project_rpy\DefaultComponent.cmp
+05, 14, 2018 (19:56:54): 
+Started writing C:\ES670 150650\Rhapsody\Project\Project_rpy\DefaultComponent.cmp on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): version 8.5.2
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project_rpy\DefaultComponent.cmp on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): Finished writing C:\ES670 150650\Rhapsody\Project\Project.rpy on Monday, May 14, 2018 (19:56:54)
+
+05, 14, 2018 (19:56:54): End Log

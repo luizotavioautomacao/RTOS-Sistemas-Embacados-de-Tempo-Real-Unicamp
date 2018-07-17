@@ -1,0 +1,88 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ ISubsystem 
+	- _ownerHandle = { IHandle 
+		- _m2Class = "ISubsystem";
+		- _filename = "Sources.sbs";
+		- _subsystem = "";
+		- _class = "";
+		- _name = "Sources";
+		- _id = GUID 49f4e301-16dd-46de-8dcd-a7ee3a057aec;
+	}
+	- _id = GUID e91f766e-6b9c-4e83-891a-83bbe9c5cf6a;
+	- _myState = 8192;
+	- _name = "Display7seg";
+	- _objectCreation = "543096514562018195267554";
+	- _umlDependencyID = "2710";
+	- Dependencies = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IDependency 
+			- _id = GUID 3d09bdcb-5858-4f0b-a27e-0a359a3b48b6;
+			- _myState = 2048;
+			- _name = "Sources";
+			- _objectCreation = "543096714562018195265554";
+			- _umlDependencyID = "2350";
+			- _dependsOn = { INObjectHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = "Sources.sbs";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Sources";
+				- _id = GUID 49f4e301-16dd-46de-8dcd-a7ee3a057aec;
+			}
+		}
+	}
+	- _lastID = 1;
+	- weakCGTime = 5.14.2018::22:35:46;
+	- strongCGTime = 5.14.2018::22:35:46;
+	- ComponentFiles = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IFile 
+			- _id = GUID 983cbf7c-570d-43e0-9822-e92f922928b7;
+			- _myState = 8192;
+			- _name = "display_hal.c";
+			- _objectCreation = "543096914562018195263554";
+			- _umlDependencyID = "2917";
+			- m_path = "";
+			- m_type = moduleFile;
+			- Fragments = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IFile 
+			- _id = GUID e9b9c702-05aa-4f73-8ca2-aa9fc68b9ccd;
+			- _myState = 8192;
+			- _name = "display_hal.h";
+			- _objectCreation = "543097114562018195261554";
+			- _umlDependencyID = "2913";
+			- m_path = "";
+			- m_type = moduleFile;
+			- Fragments = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+	}
+	- _defaultComposite = GUID a703f950-a3f1-4bf4-b62d-3a6287815a1c;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID a703f950-a3f1-4bf4-b62d-3a6287815a1c;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _objectCreation = "543097314562018195259554";
+			- _umlDependencyID = "2421";
+			- weakCGTime = 5.7.2018::22:46:16;
+			- strongCGTime = 5.7.2018::22:46:16;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+

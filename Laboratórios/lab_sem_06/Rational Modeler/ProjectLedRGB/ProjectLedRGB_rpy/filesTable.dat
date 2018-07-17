@@ -1,0 +1,12 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+
+- filesTable = { IRPYRawContainer 
+	- size = 5;
+	- value = "ProjectLedRGB.rpy" ""
+	"ProjectLedRGB_rpy\\Default.sbs" "Default"
+	"ProjectLedRGB_rpy\\DefaultComponent.cmp" "DefaultComponent"
+	"ProjectLedRGB_rpy\\package_0.sbs" "Default::package_0"
+	"Projects.rpl" ""
+	
+}
+

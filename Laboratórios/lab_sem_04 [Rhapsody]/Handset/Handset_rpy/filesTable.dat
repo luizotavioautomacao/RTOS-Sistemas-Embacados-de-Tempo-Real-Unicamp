@@ -1,0 +1,17 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+
+- filesTable = { IRPYRawContainer 
+	- size = 10;
+	- value = "Handset.rpy" ""
+	"Handset_rpy\\AnalysisPkg.sbs" "AnalysisPkg"
+	"Handset_rpy\\ArchitecturePkg.sbs" "ArchitecturePkg"
+	"Handset_rpy\\CM_SubsystemPkg.sbs" "SubsystemsPkg::CM_SubsystemPkg"
+	"Handset_rpy\\DL_SubsystemPkg.sbs" "SubsystemsPkg::DL_SubsystemPkg"
+	"Handset_rpy\\DefaultComponent.cmp" "DefaultComponent"
+	"Handset_rpy\\MM_SubsystemPkg.sbs" "SubsystemsPkg::MM_SubsystemPkg"
+	"Handset_rpy\\RequirementsPkg.sbs" "RequirementsPkg"
+	"Handset_rpy\\SubsystemsPkg.sbs" "SubsystemsPkg"
+	"Projects.rpl" ""
+	
+}
+

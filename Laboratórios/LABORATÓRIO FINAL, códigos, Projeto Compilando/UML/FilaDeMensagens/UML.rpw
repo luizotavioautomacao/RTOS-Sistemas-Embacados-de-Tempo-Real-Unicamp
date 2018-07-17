@@ -1,0 +1,81 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 260;
+				- m_nTop = 260;
+				- m_nRight = 1100;
+				- m_nBottom = 852;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "CM_SubsystemPkg.sbs";
+				- _subsystem = "SubsystemsPkg::CM_SubsystemPkg";
+				- _class = "TopLevel.ConnectionManagement.CallControl";
+				- _name = "StatechartDiagram";
+				- _id = GUID dc79c9ca-3f36-4ae2-8c4a-5cac2c775e6a;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1016 673 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 52;
+				- m_nTop = 52;
+				- m_nRight = 866;
+				- m_nBottom = 649;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "CM_SubsystemPkg.sbs";
+				- _subsystem = "SubsystemsPkg::CM_SubsystemPkg";
+				- _class = "TopLevel.ConnectionManagement.CallControl";
+				- _name = "StatechartDiagram";
+				- _id = GUID 167a70d7-5dbf-4e54-a838-f7366b2798e1;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1349 1039 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 1;
+		}
+	}
+	- _fullName = "C:\\Users\\aluno\\Desktop\\Luiz\\UML\\FilaDeMensagens\\UML";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = Favorites;
+			idOrFolder = folder;
+		}
+	}
+
+}
+

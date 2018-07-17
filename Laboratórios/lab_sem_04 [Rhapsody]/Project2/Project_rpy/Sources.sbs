@@ -1,0 +1,112 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ ISubsystem 
+	- _id = GUID 49f4e301-16dd-46de-8dcd-a7ee3a057aec;
+	- _myState = 8192;
+	- _name = "Sources";
+	- _objectCreation = "543088914562018195343554";
+	- _umlDependencyID = "2350";
+	- Annotations = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IComment 
+			- _id = GUID b4481f0f-f601-4c69-84b5-e7cdb0bc0eee;
+			- _myState = 2048;
+			- _name = "comment_6";
+			- _objectCreation = "543089114562018195341554";
+			- _umlDependencyID = "2505";
+			- _description = { IDescription 
+				- _textRTF = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1046{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}
+\\viewkind4\\uc1\\pard\\b\\fs24 ES670 - Projeto de Sistemas Embarcados\\b0\\par
+Projeto Pr\\'e1tico (3/7)\\par
+\\par
+Diagrama de Blocos\\par
+\\par
+}
+";
+			}
+			- _body = "";
+		}
+	}
+	- _lastID = 2;
+	- Declaratives = { IRPYRawContainer 
+		- size = 9;
+		- value = 
+		{ ISubsystem 
+			- fileName = "package_3";
+			- _id = GUID 1aba8eff-3325-455a-8c01-0007e6c9ecb8;
+		}
+		{ ISubsystem 
+			- fileName = "package_5";
+			- _id = GUID 66845df9-7dc2-4eb5-9c71-cdff34057d3d;
+		}
+		{ ISubsystem 
+			- fileName = "package_6";
+			- _id = GUID d0b02171-dcf5-428e-994b-fca969d07dc0;
+		}
+		{ ISubsystem 
+			- fileName = "buzzer";
+			- _id = GUID 495542a6-1545-4522-92a8-8dacce22c729;
+		}
+		{ ISubsystem 
+			- fileName = "Display7seg";
+			- _id = GUID e91f766e-6b9c-4e83-891a-83bbe9c5cf6a;
+		}
+		{ ISubsystem 
+			- fileName = "KL25Z";
+			- _id = GUID 347d0dd0-2fb4-4804-bfc5-48c4df328fd2;
+		}
+		{ ISubsystem 
+			- fileName = "display_hal";
+			- _id = GUID a0949fe1-6bc3-457a-bbd3-7a20d3c41b2c;
+		}
+		{ ISubsystem 
+			- fileName = "Taco";
+			- _id = GUID d4275c06-346c-40b0-9739-8c59c6363fe9;
+		}
+		{ ISubsystem 
+			- fileName = "Cooler";
+			- _id = GUID 9c5e6c75-387f-4168-9bc3-24f55d4f5643;
+		}
+	}
+	- weakCGTime = 5.14.2018::22:37:12;
+	- strongCGTime = 5.14.2018::22:35:46;
+	- ComponentFiles = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IFile 
+			- _id = GUID b8f5da2f-6d67-48c8-a9d3-8a2eeac2b488;
+			- _myState = 8192;
+			- _name = "file_15";
+			- _displayName = "main.c";
+			- _objectCreation = "543101514562018195217554";
+			- _umlDependencyID = "2205";
+			- m_path = "";
+			- m_type = moduleFile;
+			- Fragments = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+	}
+	- _defaultComposite = GUID d0648b88-ef76-4f42-8952-b8f3f782d73d;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID d0648b88-ef76-4f42-8952-b8f3f782d73d;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _objectCreation = "543101714562018195215554";
+			- _umlDependencyID = "2403";
+			- weakCGTime = 5.14.2018::22:35:46;
+			- strongCGTime = 5.14.2018::22:35:46;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+

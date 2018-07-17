@@ -1,0 +1,178 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ IComponent 
+	- _id = GUID fbdbcdcd-f746-41e6-97bb-a3af5bc4ad06;
+	- _myState = 139264;
+	- _name = "DefaultComponent";
+	- _objectCreation = "182339727372018156204318";
+	- _umlDependencyID = "3256";
+	- m_buildType = Executable;
+	- m_libraries = "";
+	- m_additionalSources = "";
+	- m_standardHeaders = "";
+	- m_includePath = "";
+	- m_initializationCode = "";
+	- m_folder = { IFolder 
+		- _id = GUID d4d2bfaa-3287-4364-a76d-06b3a2a1d883;
+		- _myState = 73728;
+		- _name = "Files";
+		- _objectCreation = "182339927372018156202318";
+		- _umlDependencyID = "2099";
+		- m_path = "";
+		- Elements = { IRPYRawContainer 
+			- size = 0;
+		}
+		- Files = { IRPYRawContainer 
+			- size = 0;
+		}
+	}
+	- m_configActive = { ICodeGenConfigInfoHandle 
+		- _m2Class = "ICodeGenConfigInfo";
+		- _id = GUID 175b832b-d97b-4ef6-b187-372de64b49e7;
+	}
+	- Configs = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ ICodeGenConfigInfo 
+			- _id = GUID 175b832b-d97b-4ef6-b187-372de64b49e7;
+			- _myState = 8192;
+			- _name = "DefaultConfig";
+			- _objectCreation = "182340127372018156200318";
+			- _umlDependencyID = "2889";
+			- HyperLinks = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IMHyperLink 
+					- _id = GUID 4a3733d1-770d-408c-ade7-dd029e9b1e96;
+					- _objectCreation = "182340327372018156198318";
+					- _umlDependencyID = "1600";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Makefile";
+					- _linkType = "FREE";
+					- _linkTarget = "C:\\Users\\aluno\\Desktop\\Laboratorio 4 - Rhapsody IBM\\Handset\\DefaultComponent\\DefaultConfig\\DefaultComponent.mak";
+					- isConfigurationFileHyperLink = 1;
+				}
+				{ IMHyperLink 
+					- _id = GUID 7252fa4e-2eb6-480e-915d-a0c21dcd975b;
+					- _objectCreation = "182340527372018156196318";
+					- _umlDependencyID = "1600";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Main File";
+					- _linkType = "FREE";
+					- _linkTarget = "C:\\Users\\aluno\\Desktop\\Laboratorio 4 - Rhapsody IBM\\Handset\\DefaultComponent\\DefaultConfig\\MainDefaultComponent";
+					- isConfigurationFileHyperLink = 1;
+				}
+			}
+			- _scopeType = Explicit;
+			- _libraries = "";
+			- _additionalSources = "";
+			- _standardHeaders = "";
+			- _includePath = "";
+			- _targetMain = "";
+			- _instrumentation = None;
+			- _timeModel = RealTime;
+			- m_generateActors = 1;
+			- _statechartImplementation = Flat;
+			- _initializationCode = "";
+			- _checksList = 0 ;
+			- ScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- InitialInstances = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _root = { IFolder 
+				- _id = GUID 0f38bd3c-a40a-4fe8-9729-1ebaaa3042c3;
+				- _myState = 8192;
+				- _name = "DefaultConfig";
+				- _objectCreation = "182340727372018156194318";
+				- _umlDependencyID = "2907";
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			- weakCGTime = 12.31.1969::22:0:0;
+			- strongCGTime = 12.31.1969::22:0:0;
+			- AnimScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- m_allInAnimScope = 1;
+		}
+	}
+	- HandlesInMe = { IRPYRawContainer 
+		- size = 7;
+		- value = 
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "RequirementsPkg.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "RequirementsPkg";
+			- _id = GUID 5c03d259-651c-4045-8146-764a17210e79;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "AnalysisPkg.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "AnalysisPkg";
+			- _id = GUID abc81f71-4b1c-477a-b10f-ba431b27b656;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "ArchitecturePkg.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "ArchitecturePkg";
+			- _id = GUID f7fbc8bd-cc41-4de3-9b10-f367c98cc4b8;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "SubsystemsPkg.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "SubsystemsPkg";
+			- _id = GUID bf4919d3-b413-4f12-abd7-3a2dce17386d;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "CM_SubsystemPkg.sbs";
+			- _subsystem = "SubsystemsPkg";
+			- _class = "";
+			- _name = "CM_SubsystemPkg";
+			- _id = GUID 539520f2-eb0c-4f84-8f06-3578c49da04c;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "DL_SubsystemPkg.sbs";
+			- _subsystem = "SubsystemsPkg";
+			- _class = "";
+			- _name = "DL_SubsystemPkg";
+			- _id = GUID 26386081-463b-4b02-aac2-5b7986b3ee27;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "MM_SubsystemPkg.sbs";
+			- _subsystem = "SubsystemsPkg";
+			- _class = "";
+			- _name = "MM_SubsystemPkg";
+			- _id = GUID 8a45ae73-ce5c-41e7-97f9-9b449fe46b00;
+		}
+	}
+	- VariationPoints = { IRPYRawContainer 
+		- size = 0;
+	}
+	- SelectedVariants = { IRPYRawContainer 
+		- size = 0;
+	}
+	- weakCGTime = 3.27.2018::13:30:57;
+	- strongCGTime = 12.31.1969::22:0:0;
+}
+

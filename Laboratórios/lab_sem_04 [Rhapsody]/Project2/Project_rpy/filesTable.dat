@@ -1,0 +1,26 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+
+- filesTable = { IRPYRawContainer 
+	- size = 19;
+	- value = "Project.rpy" ""
+	"Project_rpy\\AnalysisPkg.sbs" "AnalysisPkg"
+	"Project_rpy\\ArchitecturePkg.sbs" "ArchitecturePkg"
+	"Project_rpy\\Cooler.sbs" "Sources::Cooler"
+	"Project_rpy\\DefaultComponent.cmp" "DefaultComponent"
+	"Project_rpy\\Display7seg.sbs" "Sources::Display7seg"
+	"Project_rpy\\KL25Z.sbs" "Sources::KL25Z"
+	"Project_rpy\\RequirementsPkg_0.sbs" "RequirementsPkg_0"
+	"Project_rpy\\Sources.sbs" "Sources"
+	"Project_rpy\\SubsystemsPkg.sbs" "SubsystemsPkg"
+	"Project_rpy\\Taco.sbs" "Sources::Taco"
+	"Project_rpy\\buzzer.sbs" "Sources::buzzer"
+	"Project_rpy\\display_hal.sbs" "Sources::display_hal"
+	"Project_rpy\\package_3.sbs" "Sources::package_3"
+	"Project_rpy\\package_5.sbs" "Sources::package_5"
+	"Project_rpy\\package_6.sbs" "Sources::package_6"
+	"Project_rpy\\protocolo.sbs" "protocolo"
+	"Project_rpy\\serial.sbs" "serial"
+	"Projects.rpl" ""
+	
+}
+

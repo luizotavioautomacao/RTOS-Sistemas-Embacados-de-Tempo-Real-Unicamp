@@ -1,0 +1,71 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ ISubsystem 
+	- _ownerHandle = { IHandle 
+		- _m2Class = "ISubsystem";
+		- _filename = "Sources.sbs";
+		- _subsystem = "";
+		- _class = "";
+		- _name = "Sources";
+		- _id = GUID 49f4e301-16dd-46de-8dcd-a7ee3a057aec;
+	}
+	- _id = GUID 9c5e6c75-387f-4168-9bc3-24f55d4f5643;
+	- _myState = 8192;
+	- _name = "Cooler";
+	- _displayName = "Cooler";
+	- _objectCreation = "543100714562018195225554";
+	- _umlDependencyID = "2204";
+	- weakCGTime = 5.14.2018::22:38:29;
+	- strongCGTime = 5.14.2018::22:37:20;
+	- ComponentFiles = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IFile 
+			- _id = GUID ccabfd91-cac4-4e67-b47a-28ef9ee7da5e;
+			- _myState = 8192;
+			- _name = "cooler_hal.c";
+			- _displayName = "cooler_hal.c";
+			- _objectCreation = "543100914562018195223554";
+			- _umlDependencyID = "2785";
+			- m_path = "";
+			- m_type = moduleFile;
+			- Fragments = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IFile 
+			- _id = GUID b6384bf5-45e1-4179-8426-7745793cec50;
+			- _myState = 8192;
+			- _name = "file_34";
+			- _displayName = "cooler_hal.h";
+			- _objectCreation = "543101114562018195221554";
+			- _umlDependencyID = "2197";
+			- m_path = "";
+			- m_type = moduleFile;
+			- Fragments = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+	}
+	- _defaultComposite = GUID a74626ea-84ca-4631-803a-5739a0c129ba;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID a74626ea-84ca-4631-803a-5739a0c129ba;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _objectCreation = "543101314562018195219554";
+			- _umlDependencyID = "2403";
+			- weakCGTime = 12.31.1969::22:0:0;
+			- strongCGTime = 12.31.1969::22:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 12.31.1969::22:0:0;
+}
+

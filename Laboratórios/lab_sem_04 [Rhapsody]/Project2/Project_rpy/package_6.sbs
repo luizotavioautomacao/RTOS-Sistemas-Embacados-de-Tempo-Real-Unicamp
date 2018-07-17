@@ -1,0 +1,121 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ ISubsystem 
+	- _ownerHandle = { IHandle 
+		- _m2Class = "ISubsystem";
+		- _filename = "Sources.sbs";
+		- _subsystem = "";
+		- _class = "";
+		- _name = "Sources";
+		- _id = GUID 49f4e301-16dd-46de-8dcd-a7ee3a057aec;
+	}
+	- _id = GUID d0b02171-dcf5-428e-994b-fca969d07dc0;
+	- _myState = 8192;
+	- _name = "package_6";
+	- _displayName = "LedSwi";
+	- _objectCreation = "543093914562018195293554";
+	- _umlDependencyID = "2475";
+	- Dependencies = { IRPYRawContainer 
+		- size = 3;
+		- value = 
+		{ IDependency 
+			- _id = GUID 90349487-2f77-43c2-b8a6-d78141d0d44e;
+			- _myState = 2048;
+			- _name = "KL25Z";
+			- _objectCreation = "543094114562018195291554";
+			- _umlDependencyID = "1945";
+			- _dependsOn = { INObjectHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = "KL25Z.sbs";
+				- _subsystem = "Sources";
+				- _class = "";
+				- _name = "KL25Z";
+				- _id = GUID 347d0dd0-2fb4-4804-bfc5-48c4df328fd2;
+			}
+		}
+		{ IDependency 
+			- _id = GUID dc8038ae-e9a0-4223-aa10-060efd195c16;
+			- _myState = 2048;
+			- _name = "Sources";
+			- _objectCreation = "543094314562018195289554";
+			- _umlDependencyID = "2350";
+			- _dependsOn = { INObjectHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = "Sources.sbs";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Sources";
+				- _id = GUID 49f4e301-16dd-46de-8dcd-a7ee3a057aec;
+			}
+		}
+		{ IDependency 
+			- _id = GUID 233c0140-2694-4403-bc33-ef1ad9e8f4d0;
+			- _myState = 2048;
+			- _name = "Sources_0";
+			- _objectCreation = "543094514562018195287554";
+			- _umlDependencyID = "2493";
+			- _dependsOn = { INObjectHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = "Sources.sbs";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Sources";
+				- _id = GUID 49f4e301-16dd-46de-8dcd-a7ee3a057aec;
+			}
+		}
+	}
+	- _lastID = 3;
+	- weakCGTime = 5.14.2018::22:35:46;
+	- strongCGTime = 5.14.2018::22:35:46;
+	- ComponentFiles = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IFile 
+			- _id = GUID c0540099-5e45-451d-938b-5f917e0a6a26;
+			- _myState = 8192;
+			- _name = "file_13";
+			- _displayName = "ledswi_hal.c";
+			- _objectCreation = "543094714562018195285554";
+			- _umlDependencyID = "2221";
+			- m_path = "";
+			- m_type = moduleFile;
+			- Fragments = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IFile 
+			- _id = GUID 5db2c7ad-9b3f-42ea-be8a-7108114fbd8d;
+			- _myState = 8192;
+			- _name = "file_14";
+			- _displayName = "ledswi_hal.h";
+			- _objectCreation = "543094914562018195283554";
+			- _umlDependencyID = "2222";
+			- m_path = "";
+			- m_type = moduleFile;
+			- Fragments = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+	}
+	- _defaultComposite = GUID c19b71b5-027d-46bb-8c7c-6b40465b43e1;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID c19b71b5-027d-46bb-8c7c-6b40465b43e1;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _objectCreation = "543095114562018195281554";
+			- _umlDependencyID = "2412";
+			- weakCGTime = 5.7.2018::22:46:16;
+			- strongCGTime = 5.7.2018::22:46:16;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 5.7.2018::22:43:26;
+}
+

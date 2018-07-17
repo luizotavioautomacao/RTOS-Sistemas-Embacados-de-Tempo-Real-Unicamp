@@ -1,0 +1,70 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ ISubsystem 
+	- _ownerHandle = { IHandle 
+		- _m2Class = "ISubsystem";
+		- _filename = "Sources.sbs";
+		- _subsystem = "";
+		- _class = "";
+		- _name = "Sources";
+		- _id = GUID 49f4e301-16dd-46de-8dcd-a7ee3a057aec;
+	}
+	- _id = GUID d4275c06-346c-40b0-9739-8c59c6363fe9;
+	- _myState = 8192;
+	- _name = "Taco";
+	- _objectCreation = "543099914562018195233554";
+	- _umlDependencyID = "2001";
+	- weakCGTime = 5.14.2018::22:38:1;
+	- strongCGTime = 5.14.2018::22:35:32;
+	- ComponentFiles = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IFile 
+			- _id = GUID 65628f17-13e1-408c-a0b5-1ad2043bc938;
+			- _myState = 8192;
+			- _name = "taco.c";
+			- _displayName = "taco_hal.c";
+			- _objectCreation = "543100114562018195231554";
+			- _umlDependencyID = "2151";
+			- m_path = "";
+			- m_type = moduleFile;
+			- Fragments = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IFile 
+			- _id = GUID c0d41447-ee4b-4e79-a8ce-af45781f52ad;
+			- _myState = 8192;
+			- _name = "taco.h";
+			- _displayName = "taco_hal.h";
+			- _objectCreation = "543100314562018195229554";
+			- _umlDependencyID = "2165";
+			- m_path = "";
+			- m_type = moduleFile;
+			- Fragments = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+	}
+	- _defaultComposite = GUID 27db5a74-71fc-498b-9b37-1ea973ee5f95;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID 27db5a74-71fc-498b-9b37-1ea973ee5f95;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _objectCreation = "543100514562018195227554";
+			- _umlDependencyID = "2403";
+			- weakCGTime = 5.14.2018::22:35:31;
+			- strongCGTime = 5.14.2018::22:35:31;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+

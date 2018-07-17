@@ -1,0 +1,52 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ ISubsystem 
+	- _id = GUID c739ba7d-5fc3-43a7-85b2-ea3226843713;
+	- _myState = 8192;
+	- _name = "protocolo";
+	- _objectCreation = "543087714562018195355554";
+	- _umlDependencyID = "2603";
+	- Dependencies = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IDependency 
+			- _id = GUID 241575c5-79e0-4ded-ba0e-c340c905cb01;
+			- _myState = 2048;
+			- _name = "KL25Z";
+			- _objectCreation = "543087914562018195353554";
+			- _umlDependencyID = "1954";
+			- _dependsOn = { INObjectHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = "KL25Z.sbs";
+				- _subsystem = "Sources";
+				- _class = "";
+				- _name = "KL25Z";
+				- _id = GUID 347d0dd0-2fb4-4804-bfc5-48c4df328fd2;
+			}
+		}
+	}
+	- _lastID = 1;
+	- weakCGTime = 5.7.2018::22:43:40;
+	- strongCGTime = 5.7.2018::22:43:40;
+	- _defaultComposite = GUID 735d2b18-edcd-4fcc-86a5-faa15f8bde57;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID 735d2b18-edcd-4fcc-86a5-faa15f8bde57;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _objectCreation = "543088114562018195351554";
+			- _umlDependencyID = "2412";
+			- weakCGTime = 5.7.2018::22:43:40;
+			- strongCGTime = 5.7.2018::22:43:40;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+

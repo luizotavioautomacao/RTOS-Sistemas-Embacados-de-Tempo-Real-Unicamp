@@ -1,0 +1,106 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ ISubsystem 
+	- _ownerHandle = { IHandle 
+		- _m2Class = "ISubsystem";
+		- _filename = "Sources.sbs";
+		- _subsystem = "";
+		- _class = "";
+		- _name = "Sources";
+		- _id = GUID 49f4e301-16dd-46de-8dcd-a7ee3a057aec;
+	}
+	- _id = GUID 495542a6-1545-4522-92a8-8dacce22c729;
+	- _myState = 8192;
+	- _name = "buzzer";
+	- _displayName = "Buzzer";
+	- _objectCreation = "543095314562018195279554";
+	- _umlDependencyID = "2284";
+	- Dependencies = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IDependency 
+			- _id = GUID 40f7a9c6-b0df-4e0c-bcb7-1d31f327bacd;
+			- _myState = 2048;
+			- _name = "KL25Z";
+			- _objectCreation = "543095514562018195277554";
+			- _umlDependencyID = "1954";
+			- _dependsOn = { INObjectHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = "KL25Z.sbs";
+				- _subsystem = "Sources";
+				- _class = "";
+				- _name = "KL25Z";
+				- _id = GUID 347d0dd0-2fb4-4804-bfc5-48c4df328fd2;
+			}
+		}
+		{ IDependency 
+			- _id = GUID d7b35f65-81fa-4a6f-8912-2b05bac194bd;
+			- _myState = 2048;
+			- _name = "Sources";
+			- _objectCreation = "543095714562018195275554";
+			- _umlDependencyID = "2350";
+			- _dependsOn = { INObjectHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = "Sources.sbs";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Sources";
+				- _id = GUID 49f4e301-16dd-46de-8dcd-a7ee3a057aec;
+			}
+		}
+	}
+	- _lastID = 2;
+	- weakCGTime = 5.14.2018::22:35:46;
+	- strongCGTime = 5.14.2018::22:35:46;
+	- ComponentFiles = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IFile 
+			- _id = GUID c321d041-0c17-471f-89af-6fef42b1e9a5;
+			- _myState = 8192;
+			- _name = "file_6";
+			- _displayName = "buzzer_hal.c";
+			- _objectCreation = "543095914562018195273554";
+			- _umlDependencyID = "2175";
+			- m_path = "";
+			- m_type = moduleFile;
+			- Fragments = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IFile 
+			- _id = GUID cf07c886-396e-42b4-a180-2389163b96b1;
+			- _myState = 8192;
+			- _name = "file_7";
+			- _displayName = "buzzer_hal.h";
+			- _objectCreation = "543096114562018195271554";
+			- _umlDependencyID = "2167";
+			- m_path = "";
+			- m_type = moduleFile;
+			- Fragments = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+	}
+	- _defaultComposite = GUID 8f696276-dd26-4afc-9525-3a2eccbff109;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID 8f696276-dd26-4afc-9525-3a2eccbff109;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _objectCreation = "543096314562018195269554";
+			- _umlDependencyID = "2421";
+			- weakCGTime = 5.14.2018::22:34:18;
+			- strongCGTime = 5.14.2018::22:34:18;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+

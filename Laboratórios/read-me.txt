@@ -1,0 +1,7 @@
+
+Local físico
+C:\Freescale\KSDK_1.2.0\lib\ksdk_platform_lib\kds\KL25Z4
+
+
+Error:
+https://www.eclipse.org/forums/index.php/t/263075/

@@ -1,0 +1,13 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+
+- filesTable = { IRPYRawContainer 
+	- size = 6;
+	- value = "LED_RGB.rpy" ""
+	"LED_RGB_rpy\\CM_SubsystemsPkg.sbs" "SubsystemsPkg::CM_SubsystemsPkg"
+	"LED_RGB_rpy\\Default.sbs" "Default"
+	"LED_RGB_rpy\\DefaultComponent.cmp" "DefaultComponent"
+	"LED_RGB_rpy\\SubsystemsPkg.sbs" "SubsystemsPkg"
+	"Projects.rpl" ""
+	
+}
+
